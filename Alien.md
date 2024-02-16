@@ -20,6 +20,10 @@ Enter Ben Tennyson, an ordinary Earth teenager who stumbles upon the Omnitrix du
 
 The allure of the Ben 10 universe lies not only in the action-packed battles between aliens but also in the exploration of uncharted territories and the encounter with beings beyond imagination. The series encourages viewers to question the boundaries of what is considered "normal" and invites them to embrace the diversity of life, even if it comes from the farthest reaches of the cosmos.
 
-# Choose Your Ben 10 Ally - Unleash the Power Within! Add Your Alien's Name
+# Choose Your Ben 10 Ally - Unleash the Power Within!
+## Know more about Ultimate Aliens
+### Link: [Aliens-Wiki](https://ben10.fandom.com/wiki/Ben_10:_Ultimate_Alien) 
+
+## Add Your Alien's Name
 
 #Your-Alien-Name
