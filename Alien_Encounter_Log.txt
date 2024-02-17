@@ -1,4 +1,3 @@
 Alien - i: <Andreas>
 Alien - ii: <Pandor>
-Alien - iii: <Pandor>
-Alien - iv: <Bivalvan>
+
