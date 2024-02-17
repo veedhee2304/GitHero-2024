@@ -1,4 +1,4 @@
-Encryption = 'Enter_Your_Encrypted_Text_Here'
+Encryption = 'iX41?o'
 
 import random
 import string
